@@ -10,7 +10,12 @@ namespace ConsoleApplication5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Darkhan97");
+            nt secondplayed = 100;
+            const int perminutes = 60;
+            int minutes = secondplayed / perminutes;
+            int seconds = secondplayed % perminutes;
+            Console.WriteLine("Minutes " + minutes);
+            Console.WriteLine("Seconds " + seconds);
             Console.ReadKey();
         }
     }
