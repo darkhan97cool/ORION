@@ -1,9 +1,0 @@
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\CA5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\CA5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
-C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\ConsoleApplication5\CA5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
