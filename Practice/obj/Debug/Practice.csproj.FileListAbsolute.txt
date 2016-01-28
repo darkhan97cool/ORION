@@ -1,0 +1,6 @@
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Practice\Practice\obj\Debug\Practice.pdb
